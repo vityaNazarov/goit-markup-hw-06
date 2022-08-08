@@ -942,7 +942,7 @@ body {
 }
 
 .modal-form-check:checked + .modal-form-field-check::before {
-  background-image: url("/images/icon\ check.svg");
+  background-image: url("../images/icon-check.svg");
   background-position: 50% 50%;
   border-color: var(--text-color-blue);
 }
